@@ -18,7 +18,7 @@
               @enderror
                   </div>
             <div class="mb-3">
-              <label for="recipient-name" class="col-form-label">Dispositivo:</label>
+              <label for="recipient-name" class="col-form-label">Dispositivo_holaMundo:</label>
               <input type="text" class="form-control" id="dispo" name="dispo">
               @error('dispo')
               <br>
